@@ -32,3 +32,5 @@
    * Regla 13. Los elementos con clase `img` tendran `width` de 75% y un borde `solid orange` de 3px
     
    * Regla 14. Los elementos `img` tendrán un ancho `width` de `75%`, un `border: solid orange 3px;` y esquinas redondeadas con valor de `5px`
+
+ Debe de quedar asi: file:///C:/Users/34640/OneDrive/Documentos/M%C3%B2dul%204%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d'informaci%C3%B3/act/Resultado/index.html
