@@ -1,33 +1,34 @@
-1. Las frases **Pep Guardiola**, **sistema de Johan Cruyff**, **Pseudo-elements selectors** y **Attribute selectors**, encontradas en el documento `html`, han de estar vinculadas (utilizar la etiqueta `a`) a los siguientes enlaces:
-      *https://memoriasdelfutbol.com/asi-jugaba-guardiola-leyendas/
-      *https://www.bubblefootball.es/blog/dream-team-johan-cruyff/
+1.
+    * Regla 1. Las frases **Pep Guardiola**y **sistema de Johan Cruyff**encontradas en el documento `html`, han de estar vinculadas (utilizar la etiqueta `pep` y `Johan`) a los siguientes enlaces:
+       https://memoriasdelfutbol.com/asi-jugaba-guardiola-leyendas/
+       https://www.bubblefootball.es/blog/dream-team-johan-cruyff/
 
-2. Utilizar [Google Fonts](https://fonts.google.com/) para cambiar el tipo de fuente del documento a la fuente que se llama `Lato`
+   * Regla 2. Utilizar [Google Fonts](https://fonts.google.com/) para cambiar el tipo de fuente del documento.
 
-3. Utilizar [Font Awesome](https://fontawesome.com/v5.15/icons/futbol?style=solid) para añadir el icono selecionado para la página.
+   * Regla 3. Utilizar [Font Awesome](https://fontawesome.com/v5.15/icons/futbol?style=solid) para añadir el icono selecionado para la página.
 
-4. Mediante una hoja de **estilos externos** se ha de aplicar formato a la página web de manera que:
+ Mediante una hoja de **estilos externos** se ha de aplicar formato a la página web de manera que:
 
-    * Regla 1. Utilizar el selector universal `*` para cambiar el tipo de fuente del documento
+   * Regla 4. El elemento `div` para cambiar el tipo de fuente
 
-    * Regla 2. El elemento `body` tendrá margen `0` y relleno de `20%` únicamente a la derecha y izquierda
-    
-    * Regla 3. Los elementos `h1` estarán subrayados (`text-decoration: underline;`), de color `orange` y alineados al centro
+   * Regla 5. El elemento `body` tendrá el fondo de color negro, `margin: 0`,`padding-right: 10`, `padding-left: 10%`,`padding-top: 5%`, `padding-bottom: 5%` y los bordes de la izquierda y de la derecha seran de color rojo y de `15px` y
+    los bordes de arriba y abajo de color azul de `15px`
 
-    * Regla 4. Los elementos con clase `selector` tendrán color `lightcyan`
+   * Regla 6. Los elementos `h1` seran de color naranja, tendran un borde de color naranja y estaran alineados al centro
 
-    * Regla 5. Los elementos con clase `selectors` tendrán un relleno de 5%, un `border: solid darkcyan 1px;` y esquinas redondeadas `border-radius` con valor de `5px`
+   * Regla 7. Los elementos con clase `pep` estaran subrayados `text-decoration: underline`
+
+   * Regla 8. Los elementos con clase `Johan` estaran subrayados `text-decoration: underline`
     
-    * Regla 6. Los elementos con identificador (id) `universal` tendrán color `lightgoldenrodyellow` 
+   * Regla 9. Los elementos `h2` seran de color naranja
     
-    * Regla 7. Los elementos `h2` con clase `selector` y los elementos `h2` con identificador (id) `universal` tendrán color de fondo `darkcyan`, relleno de `1%` y esquinas redondeadas con valor de `5px`
+   * Regla 10. Los elementos `h3` seran de color naranja
     
-    * Regla 8. Los elementos `span` tendrán `font-weight: 900;` color de fondo negro y color de texto blanco
+   * Regla 11. Los elementos `img` tendran, `border-radius: 5px`,
+    `width: 75%`, border: solid orange 3px;
     
-    * Regla 9. Los elementos `a` que sean hijos directos de algún `li` tendrán `text-decoration: none`
+   * Regla 12. Los elementos `p` seran de color `whitesmoke`
     
-    * Regla 10. Los elementos `h3` tendrán color de fondo `background-color: rgba(0, 139, 139, 0.529);`, relleno de `0.5px` y esquinas redondeadas con valor de `5px`
+   * Regla 13. Los elementos con clase `img` tendran `width` de 75% y un borde `solid orange` de 3px
     
-    * Regla 11. Los elementos `div` que sean descendientes de un elemento con id gallery tendrán un ancho `width` de `100%`
-    
-    * Regla 12. Los elementos `img` tendrán un ancho `width` de `100%`, un `border: solid darkcyan 1px;` y esquinas redondeadas con valor de `5px`
+   * Regla 14. Los elementos `img` tendrán un ancho `width` de `75%`, un `border: solid orange 3px;` y esquinas redondeadas con valor de `5px`

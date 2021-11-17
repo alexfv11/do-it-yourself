@@ -1,0 +1,61 @@
+div {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Cinzel', serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Serif Display', serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Zen Kurenaido', sans-serif;
+}
+
+body {
+    background-color: black;
+    margin: 0;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    border-right: solid red 15px;
+    border-left: solid red 15px;
+    border-bottom: solid blue 15px;
+    border-top: solid blue 15px;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+    border: solid orange;
+}
+
+h2 {
+    color: orange;
+}
+
+p {
+    color: whitesmoke;
+}
+
+.pep {
+    text-decoration: underline;
+}
+
+.Johan {
+    text-decoration: underline;
+}
+
+img {
+    border-radius: 5px;
+    width: 75%;
+    border: solid orange 3px;
+}
+
+h3 {
+    color: orange;
+}
+
+.img {
+    width: 7%;
+    border-radius: 50px;
+}
